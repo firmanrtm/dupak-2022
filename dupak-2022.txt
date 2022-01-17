@@ -1,0 +1,10 @@
+butir yang bisa diambil :
+- I.A.2 Melakukan reviu TI yang digunakan institusi saat ini atau tren TI terkini : Data Science
+- I.A.2 Melakukan reviu TI yang digunakan institusi saat ini atau tren TI terkini : Augmented Reality
+- III.A.1 Menyusun Usulan Pembangunan Sistem Informasi
+- III.A.2 Menyusun Rencana Studi Kelayakan Sistem Informasi
+- III.A.3 Melaksanakan Studi Kelayakan Sistem Informasi
+- III.A.4 Melakukan Identifikasi Kebutuhan Pengguna Sistem Informasi
+- III.A.5 Melakukan Analisis Sistem Informasi
+- III.A.6 Melakukan Pemodelan Proses Sistem Informasi
+- III.A.7 Melakukan Perancangan Sistem Informasi
