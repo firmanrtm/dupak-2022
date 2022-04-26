@@ -9,3 +9,4 @@ butir yang bisa diambil :
 - III.A.6 Melakukan Pemodelan Proses Sistem Informasi
 - III.A.7 Melakukan Perancangan Sistem Informasi
 - III.A.8 Membuat Algoritma Pemrograman
+- III.A.9 Membuat Program Aplikasi Sistem Informasi
