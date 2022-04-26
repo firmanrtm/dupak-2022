@@ -3,3 +3,4 @@ Rencana Aplikasi Sistem Informasi Arsip SK Kepala Bakuda :
 - Menyusun Rencana Studi Kelayakan SI
   * proposal > 20 halaman
 - Melakukan Studi Kelayakan
+- Melakukan Identifikasi Kebutuhan Pengguna
